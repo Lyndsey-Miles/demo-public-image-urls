@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560">
+  <defs>
+    <linearGradient id="top" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#000" stop-opacity="0.72"/><stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bot" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.78"/>
+    </linearGradient>
+  </defs>
+  <image href="https://images.unsplash.com/photo-1638947693941-669835e07b4c?q=80&amp;w=1000&amp;auto=format&amp;fit=crop" x="0" y="0" width="1000" height="560" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="0" y="0" width="1000" height="120" fill="url(#top)"/>
+  <rect x="0" y="430" width="1000" height="130" fill="url(#bot)"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="bold" fill="#ffffff" stroke="#000000" stroke-width="8" paint-order="stroke" text-anchor="middle" letter-spacing="0.5">
+    <text x="500" y="74" font-size="64">UAT IS READY</text>
+    <text x="500" y="528" font-size="54">IT WON'T TEST ITSELF</text>
+  </g>
+</svg>
