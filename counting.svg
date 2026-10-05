@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" role="img" aria-label="Counting icon" color="#3C4FE0">
+  <title>Counting</title>
+  <g stroke="currentColor" stroke-width="2.6" stroke-linecap="butt">
+      <path d="M3 2 V18"/>
+      <path d="M8 2 V18"/>
+      <path d="M13 2 V18"/>
+      <path d="M1 16 L17 3"/>
+    </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" role="img" aria-label="Counting in Busy / High-Traffic Areas icon" color="#3C4FE0">
+  <title>Counting in Busy / High-Traffic Areas</title>
+  <circle cx="4.5" cy="5.5" r="3.2" fill="currentColor"/>
+      <path d="M-0.5 19 Q-0.5 12 4.5 12 Q9.5 12 9.5 19 Z" fill="currentColor"/><circle cx="10" cy="5.5" r="3.2" fill="currentColor"/>
+      <path d="M5 19 Q5 12 10 12 Q15 12 15 19 Z" fill="currentColor"/><circle cx="15.5" cy="5.5" r="3.2" fill="currentColor"/>
+      <path d="M10.5 19 Q10.5 12 15.5 12 Q20.5 12 20.5 19 Z" fill="currentColor"/>
+</svg>

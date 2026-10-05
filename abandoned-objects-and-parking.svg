@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" role="img" aria-label="Abandoned Objects and Parking icon" color="#9B6B2C">
+  <title>Abandoned Objects and Parking</title>
+  <rect x="2" y="7" width="16" height="11" rx="1.6" fill="currentColor"/>
+    <path d="M7 7 V4.5 Q7 2.5 10 2.5 Q13 2.5 13 4.5 V7" fill="none" stroke="currentColor" stroke-width="2.2"/>
+    <circle cx="14.5" cy="5.5" r="4" fill="#fff"/>
+    <rect x="13.6" y="3" width="1.8" height="3.2" fill="currentColor"/>
+    <circle cx="14.5" cy="7.7" r="0.95" fill="currentColor"/>
+</svg>

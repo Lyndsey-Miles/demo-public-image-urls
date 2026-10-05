@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" role="img" aria-label="Traffic and Vehicles icon" color="#E2A00C">
+  <title>Traffic and Vehicles</title>
+  <rect x="6" y="1" width="8" height="18" rx="3" fill="currentColor"/>
+    <circle cx="10" cy="5.5" r="2" fill="#fff"/>
+    <circle cx="10" cy="10" r="2" fill="#fff" opacity="0.55"/>
+    <circle cx="10" cy="14.5" r="2" fill="#fff" opacity="0.55"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" role="img" aria-label="Falling icon" color="#D6401F">
+  <title>Falling</title>
+  <circle cx="14.5" cy="3.5" r="2.6" fill="currentColor"/>
+    <path d="M12.5 6 L4.5 9 M12.5 6 L10 14.5 M12.5 6 L17.5 11.5M10 14.5 L5.5 18.5M10 14.5 L15 17" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <g stroke="currentColor" stroke-width="1.6" stroke-linecap="round">
+      <path d="M1 3 L4.5 4.5"/>
+      <path d="M1.5 7.5 L5 7.5"/>
+    </g>
+</svg>

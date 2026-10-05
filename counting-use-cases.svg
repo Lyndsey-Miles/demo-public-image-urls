@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" role="img" aria-label="Counting Use Cases icon" color="#3C4FE0">
+  <title>Counting Use Cases</title>
+  <g fill="currentColor">
+      <path d="M10 1 L19 5.5 L10 10 L1 5.5 Z"/>
+      <path d="M1 10.5 L10 15 L19 10.5 L19 13.5 L10 18 L1 13.5 Z"/>
+    </g>
+</svg>

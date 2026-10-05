@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" role="img" aria-label="System and Generic Events icon" color="#6B6560">
+  <title>System and Generic Events</title>
+  <path d="M10 0.5 L11.8 0.5 L12.5 3.3 L14.7 4 L17.1 2.3 L18.3 3.9 L16.7 6.2 L17.5 8.4 L20 9.1 V10.9 L17.5 11.6 L16.7 13.8 L18.3 16.1 L17.1 17.7 L14.7 16 L12.5 16.7 L11.8 19.5 H10 L9.3 16.7 L7.1 16 L4.9 17.7 L3.3 16.1 L4.9 13.8 L4.1 11.6 L1 10.9 V9.1 L4.1 8.4 L4.9 6.2 L3.3 3.9 L4.9 2.3 L7.1 4 L9.3 3.3 Z" fill="currentColor"/>
+    <circle cx="10" cy="10" r="3.4" fill="#fff"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" role="img" aria-label="Fighting icon" color="#D6401F">
+  <title>Fighting</title>
+  <g fill="currentColor">
+      <rect x="1" y="7" width="7" height="7" rx="1.8"/>
+      <rect x="2.5" y="5" width="2" height="4" rx="1"/>
+      <rect x="5.5" y="4" width="2" height="5" rx="1"/>
+      <rect x="12" y="7" width="7" height="7" rx="1.8"/>
+      <rect x="12.5" y="4" width="2" height="5" rx="1"/>
+      <rect x="15.5" y="5" width="2" height="4" rx="1"/>
+    </g>
+    <path d="M8 10.5 H12" stroke="currentColor" stroke-width="2.2" stroke-linecap="butt"/>
+</svg>
